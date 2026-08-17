@@ -1,5 +1,5 @@
 # .apuspack-tester
-This is an COPY OF THE game OpenRCT2 used to test the .apuspack files.
+This is an COPY OF THE game OpenRCT2 WITHOUT ASSETS used to test the .apuspack files.
 
 BIG SHOUTOUT to the OpenRCT2 developers, great game you guys made.
 
